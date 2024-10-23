@@ -34,7 +34,28 @@ Innovative projects:
 
 ## Work Experience
 
-***Digital Marketing Assistant | Zankyou (_January 2022 - July 2022_)***
-- 
+J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire le lien entre les équipes terrains (business) et les équpies tech. J'ai donc toujours cherché à travailler dans des environements tech, des postes à vocation d'analyse. 
 
+***Digital Marketing Assistant | Zankyou (_January 2022 - July 2022_)***
+
+#### SEA - SEM
+- Creation of visuals 
+- Creation of campaigns (google, meta, linkedin)
+- Analysis of results (data studio, google analytics)
+- Budget management (about 40000€/month) 
+- Optimization of campaigns
+- A/B testing
+
+#### Project management
+When I arrived at Zankyou, I was supposed to work exclusively on digital marketing campaigns. However, I soon noticed that there were a number of problems/unnecessary actions causing loss of time and efficiency, and above all that the simple digital tools available to the teams were not being used or were being misused. So I started training myself in these various tools, and then came up with some solutions. 
+
+- Redesign of the data studio environment
+- Automatic keyword analysis
+- Link of the various data sources
+  - Creation of new campaign formats (audiences, videos, campaign types, etc.)
+
+I then went on to develop a data-driven strategy, which I used to write my bachelor thesis. 
+- Campaing scoring
+- Detailed analysis of the customers
+- Creation of a 
 
