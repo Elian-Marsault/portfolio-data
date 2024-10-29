@@ -11,8 +11,8 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-📧 email: "elian.marsault@gmail.com"
-📞 phone number: "+33651834037"
+📧 **Email**: [elian.marsault@gmail.com](mailto:elian.marsault@gmail.com)  
+📞 **Phone**: +33 6 51 83 40 37
 
 google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
 
