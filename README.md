@@ -53,7 +53,7 @@ J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire l
 
 ### Digital Marketing Assistant | Zankyou (January 2022 - July 2022)### 
 
-#### SEA - SEM
+**SEA - SEM**
 - Creation of visuals 
 - Creation of campaigns (google, meta, linkedin)
 - Analysis of results (data studio, google analytics)
@@ -61,7 +61,7 @@ J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire l
 - Optimization of campaigns
 - A/B testing
 
-#### Project management
+**Project management**
 When I arrived at Zankyou, I was supposed to work exclusively on digital marketing campaigns. However, I soon noticed that there were a number of problems/unnecessary actions causing loss of time and efficiency, and above all that the simple digital tools available to the teams were not being used or were being misused. So I started training myself in these various tools, and then came up with some solutions. 
 
 - Redesign of the data studio environment
