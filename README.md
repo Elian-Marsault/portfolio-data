@@ -8,7 +8,9 @@ You will find here the relevents informations about my tech profile (education, 
    </a>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:elian.marsault@gmail.com'>elian.marsault@gmail.com</a>
+   📫 How to reach me: 
+   📧 Email <a href='mailto:elian.marsault@gmail.com'>elian.marsault@gmail.com</a>
+   📞 Phone number <a href='+33651834037'</a>
 </p>
 
 ## Education:
