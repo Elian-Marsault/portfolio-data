@@ -19,7 +19,7 @@ My creativity is one of my strongest assets, driving me to think outside the box
 
 ## Education:
 
-### - M.S., Data Analyctics and Econoics	| University of Freiburg (_2023-2025_)
+### M.S., Data Analyctics and Econoics	| University of Freiburg (_2023-2025_)
 
 **Data:**
 - Machine leaning
@@ -36,13 +36,13 @@ My creativity is one of my strongest assets, driving me to think outside the box
 - Demography, Immigration and Labour market
 
                
-### - B.S., Business Administration | EM Lyon (_2018-2022_)
+### B.S., Business Administration | EM Lyon (_2018-2022_)
 
 **Specialization : Corporate entrepreunership and innovation**
 
 **Final Thesis: Does Data-driven marketing increase performance? (17.5/20)**
 
-Innovative projects: 
+Innovative projects:
 - Business creation "Apéripif"
 - online application for parking space
 
@@ -51,7 +51,7 @@ Innovative projects:
 
 J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire le lien entre les équipes terrains (business) et les équpies tech. J'ai donc toujours cherché à travailler dans des environements tech, des postes à vocation d'analyse. 
 
-__Digital Marketing Assistant | Zankyou (January 2022 - July 2022)__
+### Digital Marketing Assistant | Zankyou (January 2022 - July 2022)### 
 
 #### SEA - SEM
 - Creation of visuals 
