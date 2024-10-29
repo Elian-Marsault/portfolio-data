@@ -6,10 +6,11 @@ You will find here the relevents informations about my tech profile (education, 
    <a href="[https://www.linkedin.com/in/elian-marsault-benichon-48a668173/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   </a>
 <p align='center'>
-   📫 How to reach me: 
+   📫 How to reach me:
+   </a>>
    📧 Email <a href='mailto:elian.marsault@gmail.com'>elian.marsault@gmail.com</a>
+   </a>>
    📞 Phone number <a href='+33651834037'</a>
 </p>
 
