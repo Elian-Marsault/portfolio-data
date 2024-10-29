@@ -53,6 +53,8 @@ J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire l
 
 ### Digital Marketing Assistant | Zankyou (January 2022 - July 2022)### 
 
+Before starting my internship, I had zero experience with SEA. Within two weeks, I was already handling things independently. A great example of this: two weeks in, my manager (the only one managing Google and Meta Ads) went on a two-week vacation, leaving me fully in charge. I was nervous about managing the budget, so I created a Data Studio dashboard to track our daily spend. It turned out to be a good move—three days before she returned, I noticed we were under budget, so I reallocated funds across campaigns to make sure we stayed on track.
+
 **SEA - SEM**
 - Creation of visuals 
 - Creation of campaigns (google, meta, linkedin)
