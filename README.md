@@ -2,10 +2,10 @@
 
 You will find here the relevents informations about my tech profile (education, work experience) and also the different project I have realyse to train and improve my competencies.
 
-<div align="center">
+<div style="text-align: center;">
 
-📧 **Email**: [elian.marsault@gmail.com](mailto:elian.marsault@gmail.com)  
-📞 **Phone**: +33 6 51 83 40 37
+  <p>📧 <strong>Email</strong>: <a href="mailto:elian.marsault@gmail.com">elian.marsault@gmail.com</a></p>
+  <p>📞 <strong>Phone</strong>: +33 6 51 83 40 37</p>
 
 </div>
  
