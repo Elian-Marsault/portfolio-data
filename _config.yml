@@ -4,9 +4,6 @@ logo: "1.png"  # Relative path to logo image
 
 description: "Student in Data analysis and Economics"
 
-email: "elian.marsault@gmail.com"
-phone: "+33 6 51 83 40 37"
-
 show_downloads: true
 
 theme: jekyll-theme-minimal
