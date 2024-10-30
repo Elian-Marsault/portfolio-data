@@ -69,7 +69,8 @@ When I arrived at Zankyou, I was supposed to work exclusively on digital marketi
 - Redesign of the data studio environment
 - Automatic keyword analysis
 - Link of the various data sources
-  - Creation of new campaign formats (audiences, videos, campaign types, etc.)
+  - Creation of new campaign formats (audiences, videos, campaign types, etc.) 
+  
 
 I then went on to develop a data-driven strategy, which I used to write my bachelor thesis. 
 - Campaing scoring
