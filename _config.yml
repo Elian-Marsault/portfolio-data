@@ -1,19 +1,18 @@
-title: Elian Marsault  
+title: "Elian Marsault"
 
-logo: 1.png # Use a relative path to logo image 
+logo: "1.png"  # Relative path to logo image
 
-description: Student in Data analysis and Economis
+description: "Student in Data analysis and Economics"
 
-📧 Email: [elian.marsault@gmail.com](mailto:elian.marsault@gmail.com)  
-📞 Phone: +33 6 51 83 40 37
+email: "elian.marsault@gmail.com"
+phone: "+33 6 51 83 40 37"
 
-show_downloads: true # Fix spelling
+show_downloads: true
 
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag
 
-google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
-
+google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk"
 
