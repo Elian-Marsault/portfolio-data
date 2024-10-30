@@ -8,7 +8,7 @@ You will find here the relevents informations about my tech profile (education, 
 📞 **Phone**: +33 6 51 83 40 37
 
 </div>
-
+ 
 ## About me:
 
 Passionate about new technologies and a lover of mathematics with a creative spirit, I am a fast learner, always eager to expand my knowledge. My academic background and professional experience have given me a dual expertise in both business and technology, allowing me to bridge the gap between business needs and technical solutions. I excel at creating dashboards, analyses, and predictive models that cater directly to business requirements, and I can communicate complex technical issues in simple/understandable terms for non technical teams. I have a strategic perspective, able to assess the big picture while also deconstructing it to identify problems or uncover optimization opportunities.
