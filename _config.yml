@@ -1,6 +1,6 @@
 title: "Elian Marsault"
 
-logo: "1.png"  # Relative path to logo image
+<img src="1.png" alt="Elian Marsault" style="border-radius: 50%; width: 150px; height: 150px;">
 
 description: "Student in Data analysis and Economics"
 
