@@ -1,14 +1,17 @@
 title: "Elian Marsault"
 
-#logo: "1.png"
+logo: "1.png"  # Relative path to logo image
 
 description: "Student in Data analysis and Economics"
+
+email: "elian.marsault@gmail.com"
+phone: "+33 6 51 83 40 37"
 
 show_downloads: true
 
 theme: jekyll-theme-minimal
 
-plugins: jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag  # Use an array, even for a single plugin
 
 google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk"
-
