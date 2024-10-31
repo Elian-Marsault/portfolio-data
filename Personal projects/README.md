@@ -1,12 +1,12 @@
 # Project
 
-You will find here prjects on different database (find online)
+Here, you’ll find projects across various datasets (all accessible online):
 
 
-# AirBnb Paris(lien detaset):
+## AirBnb Paris:
 
-EDA: Analyse des prix/nombre de logments etc... à travers la capital
+**EDA**: Analysis of prices, number of listings, and other key metrics across the city of Paris.
 
-Machine learning: Comprendre comment les particulier fixes les prix et proposer une fourchette de prix au nouvelle utilisateur
+**Machine Learning**: Understanding how hosts set their prices and providing a price range recommendation for new users.
 
-Bonus: Etude du calendrier des reservations et proposer des ajustements prix(en fonction des saisons, des prix autours etc...)
+**Bonus**: Studying the reservation calendar to suggest price adjustments based on seasonality, nearby listings, and other factors.
