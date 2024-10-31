@@ -60,7 +60,7 @@ J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire l
 
 ### Digital Marketing Assistant | Zankyou (January 2022 - July 2022)
 
-Before starting my internship, I had zero experience with SEA. Within two weeks, I was already handling things independently. A great example of this: two weeks in, my manager (the only one managing Google and Meta Ads) went on a two-week vacation, leaving me fully in charge. I was nervous about managing the budget, so I created a Data Studio dashboard to track our daily spend. It turned out to be a good move—three days before she returned, I noticed we were under budget, so I reallocated funds across campaigns to make sure we stayed on track.
+Before starting my internship, I had zero experience with SEA. Within two weeks, I was already handling things independently. A great example of this: two weeks in, my manager (the only one managing Google and Meta Ads) went on a two-week vacation, leaving me fully in charge. I was nervous about managing the budget. So I took the opportunity to create a dashboard in data studio in order to track our daily spending. It turned out to be a good move—three days before she returned, I noticed we were under budget, so I reallocated funds across campaigns to make sure we stayed on track.
 
 **SEA - SEM**
 - Creation of visuals 
@@ -71,7 +71,7 @@ Before starting my internship, I had zero experience with SEA. Within two weeks,
 - A/B testing
 
 **Project management**
-When I arrived at Zankyou, I was supposed to work exclusively on digital marketing campaigns. However, I soon noticed that there were a number of problems/unnecessary actions causing loss of time and efficiency, and above all that the simple digital tools available to the teams were not being used or were being misused. So I started training myself in these various tools, and then came up with some solutions. 
+Initially my role was to work exclusively on digital marketing campaigns. However, I soon noticed that there were a number of problems/unnecessary actions causing waste of time and inefficiencies. In addition to that, I’ve identified that existing digitals tools were either not used or used wrongly by the team. Therefore, I proactively decided to train myself in these tools in order to propose new solutions and ways of working. 
 
 - Redesign of the data studio environment
 - Automatic keyword analysis
@@ -79,7 +79,7 @@ When I arrived at Zankyou, I was supposed to work exclusively on digital marketi
   - Creation of new campaign formats (audiences, videos, campaign types, etc.) 
   
 
-I then went on to develop a data-driven strategy, which I used to write my bachelor thesis. 
+At the end of this internship I decided in collaboration with my manager to develop and present a data driven strategy that the team could implement:
 - Campaing scoring
 - Detailed analysis of the customers
 - Creation of a 
