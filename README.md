@@ -1,6 +1,6 @@
 # Portfolio
 
-You will find here the relevents informations about my tech profile (education, work experience) and also the different project I have realyse to train and improve my competencies.
+Explore my tech profile, where I bring together my academic background, professional experience, and projects that highlight my drive to master new skills and push the boundaries of my expertise.
 
 <div style="text-align: center;">
 
@@ -26,21 +26,21 @@ My creativity is one of my strongest assets, driving me to think outside the box
 
 ## Education:
 
-### M.S., Data Analyctics and Econoics	| University of Freiburg (_2023-2025_)
+### M.S., Data Analytics and Economics	| University of Freiburg (_2023-2025_)
 
 **Data:**
-- Machine leaning
+- Machine learning
 - Data analysis
 - Data visualisation
-- Database managment
+- Database management
 - Mathematical statistics
 
-**Ecnonomy:**
+**Ecnonomics:**
 - Political Economy
 - Econometric
-- Microeconomics of Competitivness
+- Microeconomics of Competitiveness
 - International Tax competition
-- Demography, Immigration and Labour market
+- Demography, Immigration, and Labor Market
 
                
 ### B.S., Business Administration | EM Lyon (_2018-2022_)
@@ -56,7 +56,7 @@ Innovative projects:
 
 ## Work Experience
 
-J'ai toujours voulu traivailler dans le secteur de la data et de pouvoir faire le lien entre les équipes terrains (business) et les équpies tech. J'ai donc toujours cherché à travailler dans des environements tech, des postes à vocation d'analyse. 
+I've always been drawn to the data sector and motivated by the opportunity to bridge the gap between business teams and tech teams. That’s why I’ve consistently pursued roles in tech environments with a focus on analysis.
 
 ### Digital Marketing Assistant | Zankyou (January 2022 - July 2022)
 
