@@ -1,6 +1,6 @@
 # Project
 
-Here, you’ll find projects across various datasets (all accessible online):
+Here, you’ll find projects across various datasets (all accessible online). Don't hesitate if you have any improvements/recommendations!!
 
 
 ## AirBnb Paris:
