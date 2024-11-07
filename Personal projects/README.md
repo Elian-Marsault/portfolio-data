@@ -7,7 +7,9 @@ Here, you’ll find projects across various datasets (all accessible online). Do
 
 **Price calculation**: 
 Understanding how hosts set their prices and providing a price range recommendation for new users (neural network with keras + try with XGBoost).
-Next step: combine it with the calendar to propose different price stetings 
+
+Next step:
+Create the interface.
 Combine it with calendar analysis to propose prices according to the user's needs, adapting to the season/time of year. 
 
 
