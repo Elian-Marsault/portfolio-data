@@ -5,7 +5,11 @@ Here, you’ll find projects across various datasets (all accessible online). Do
 
 ## AirBnb Paris:
 
-**Price calculation**: Understanding how hosts set their prices and providing a price range recommendation for new users (neural network with keras + try with XGBoost)
+**Price calculation**: 
+Understanding how hosts set their prices and providing a price range recommendation for new users (neural network with keras + try with XGBoost).
+Next step: combine it with the calendar to propose different price stetings 
+Combine it with calendar analysis to propose prices according to the user's needs, adapting to the season/time of year. 
+
 
 ### 🚧 Work in progress 🔨 🚧
 **EDA**: Analysis of prices, number of listings, and other key metrics across the city of Paris.
