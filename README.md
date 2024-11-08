@@ -82,5 +82,5 @@ Initially my role was to work exclusively on digital marketing campaigns. Howeve
 At the end of this internship I decided in collaboration with my manager to develop and present a data driven strategy that the team could implement:
 - Campaing scoring
 - Detailed analysis of the customers
-- Creation of a 
+- Creation of a data-driven strategy
 
